@@ -12,8 +12,7 @@ function Navbar() {
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             <img
-              src="https://vark.fbrk.in/assets/images/fabrik_full_logo.png
-"
+              src="https://codequotient.com/icons/logo2.png"
               alt=""
               width="150"
               height="34"
